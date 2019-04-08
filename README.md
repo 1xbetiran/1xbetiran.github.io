@@ -5,6 +5,6 @@
 <title>وان ایکس بت HTML</title>
 </head>
 <body>
-<a href="http://onexbet.net" title="وان ایکس بت" target="_blank">کلیک کنید</a> سایت 1xbet
+<a href="http://onexbet.net" title="وان ایکس بت" target="_blank">کلیک کنیدسایت 1xbet</a>
 </body>
 </html>
