@@ -1,3 +1,3 @@
 # 1xbetiran.github.io
 1xbet iran
-<a href="http://onexbet.net" title="این یک لینک است" target="_blank">کلیک کنید</a>
+<a href="http://onexbet.net" title="وان ایکس بت" target="_blank">کلیک کنید</a>
