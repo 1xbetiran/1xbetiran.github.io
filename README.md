@@ -1,3 +1,3 @@
 # 1xbetiran.github.io
 1xbet iran
-href="https://onexbet.net">
+<a target="_blank" href="https://onexbet.net/">onexbet.net</a>
